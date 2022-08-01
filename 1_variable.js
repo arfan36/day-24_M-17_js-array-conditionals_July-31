@@ -27,6 +27,7 @@ var isSingle = true;
 
 // convert: parseInt, parseFloat
 
+
 // toFixed
 
 // remainder: vagses: %
